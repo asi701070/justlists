@@ -121,6 +121,14 @@
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
+         {
+            "symbol":"KIi",
+            "address":"TXxD9SVQeuArQrXkpGJjFVHjD53rma8a5e",
+            "chainId":1,
+            "decimals":18,
+            "name":"Kitoken",
+            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TXxD9SVQeuArQrXkpGJjFVHjD53rma8a5e.png?t=1714048449488"
+        }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
