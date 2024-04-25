@@ -122,6 +122,15 @@
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
     ],
+         {
+            "symbol":"KIi",
+            "address":"TXxD9SVQeuArQrXkpGJjFVHjD53rma8a5e",
+            "chainId":1,
+            "decimals":18,
+            "name":"Kitoken",
+            "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        }
+    ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
         "patch":1,
