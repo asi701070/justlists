@@ -2,11 +2,11 @@
     "name":"JustSwap Default List",
     "tokens":[
         {
-            "symbol":"SUN",
-            "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            "symbol":"YTN",
+            "address":"TWuomZmpAnzWWXaJ1vukhca1deZsVs2ynE",
             "chainId":1,
             "decimals":18,
-            "name":"SUN TOKEN",
+            "name":"TourTokenName",
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
         },
         {
@@ -120,14 +120,7 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
-        },
-        {
-            "symbol":"YTN",
-            "address":"TWuomZmpAnzWWXaJ1vukhca1deZsVs2ynE",
-            "chainId":1,
-            "decimals":18,
-            "name":"YoutTokenName",
-            "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
